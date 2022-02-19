@@ -29,3 +29,24 @@ img{
     border-radius: 2.5rem;
 }
 
+@media only screen 
+  and (min-device-width: 200px) 
+  and (max-device-width: 1024px) 
+  and (orientation: portrait) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+*{
+    padding:0.5rem;
+}
+
+body{
+
+    flex-direction: column;
+}
+img{
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+}
+
+}
