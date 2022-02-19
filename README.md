@@ -6,6 +6,11 @@ Ron Swanson is a main character from NBC's hit comdedy [Parks and Recreation](ht
 
 I used vanilla javascript and CSS to build this project for fun.
 
+## Future Developments
+
+- Add dark mode toggle slider
+- Add animations for quote and slider
+
 
 # Deployed Application
 
